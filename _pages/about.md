@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
-
 # About Me
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
-* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+* I am an applied scientist at [Amazon AI (Rekognition)](https://aws.amazon.com/rekognition/).
+* My research interests lie in video understanding (including action recognition, action detection, action segmentation, etc.) and multimedia understanding (including sound classification, the multimodality fusion, emotion recognition, etc.). I am also actively contributing to opensourced tools [GluonCV](https://cv.gluon.ai/)
+* I received my Ph.D. Degree (2018) in [Rutgers University](https://www.rutgers.edu/) supervised by Prof. [Ivan Marsic](https://www.ece.rutgers.edu/~marsic/).
+I received my Bachelor’s Degree (2013) in [UniversiUniversity of Electronic Science and Technology of Chinaty](https://www.uestc.edu.cn/). My undergraduate research advisors are Prof. Chang SHu, and Prof. Xiaofeng Li.
 
 
-# Academic Services
-* Conference Reviewer: AAAI 2019, AAAI 2020, ICML 2020 (top reviewer award), NeurIPS 2020, AAAI 2021, ICLR 2021, AISTATS 2021, ICRA 2021.
-* Journal Reviewer: Journal of Artificial Intelligence Research (JAIR), IEEE Robotics and Automation Letters (RA-L).
+# News
+* The Gluon Toolkit with pytorch support is now available! [GluonCV](https://cv.gluon.ai/)
+* Our survey paper "A Comprehensive Study of Deep Video Action Recognition" is available on [Arxiv](https://arxiv.org/abs/2012.06567)
+* My paper "Directional temporal modeling for action recognition" is accepted by ECCV 2020 (Spotlight). [Download](https://assets.amazon.science/67/d7/e6b2da584d57b6928b652fc75fa1/directional-temporal-modeling-for-action-recognition.pdf)
