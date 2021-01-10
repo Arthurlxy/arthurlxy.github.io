@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyu Li (Arthur)"
+title                    : Xinyu Li (Arthur)
 title_separator          : "-"
 name                     : &name "Xinyu Li"
 description              : &description "Applied Scientist @ Amazon AI"
-url                      : https://arthurlxy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # https://arthurlxy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : https://github.com/Arthurlxy
+  github           : Arthurlxy
   google_plus      :
   keybase          :
   instagram        : 
