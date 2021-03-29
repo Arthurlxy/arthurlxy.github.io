@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 I am an applied scientist at [Amazon AI (Rekognition)](https://aws.amazon.com/rekognition/).
-My research interests lie in video understanding (including action recognition, action detection, action segmentation, etc.) and multimedia understanding (including sound classification, the multimodality fusion, emotion recognition, etc.). I am also actively contributing to opensourced tools [GluonCV](https://cv.gluon.ai/)
+My research interests lie in video understanding (including action recognition, action detection, action segmentation, etc.) and multimedia understanding (including sound classification, the multimodality fusion, emotion recognition, etc.). I am also actively contributing to open-source tools [GluonCV](https://cv.gluon.ai/).
 
 Before joining Amazon, I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. [Ivan Marsic](https://www.ece.rutgers.edu/~marsic/).
 I received my Bachelor’s Degree (2013) at [UniversiUniversity of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
