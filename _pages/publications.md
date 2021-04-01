@@ -8,6 +8,13 @@ For full pulication list, please see my [google scholar](https://scholar.google.
 
 ## 2021
 
+![image](/images/publication/VidTr.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }  
+**VidTr: Video Transformer Without Convolutions** <br />
+**Xinyu Li\***, Yanyi Zhang\*, Chunhui Liu, Bing Shuai, Yi Zhu, Hao Chen, Ivan Marsic, Joseph Tighe.<br />
+[Pre-print](Comming Soon) <br /><br /><br />
+
 ![image](/images/publication/TubeR.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
@@ -15,12 +22,12 @@ For full pulication list, please see my [google scholar](https://scholar.google.
 Jiaojiao Zhao\*, **Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Hao Chen, Joseph Tighe. <br />
 [Pre-print](available_soon)
 
-![image](/images/publication/nuta.png){: style="float: left; padding-right: 10px"
+![image](/images/publication/SFC.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }  
-**NUTA: Non-uniform Temporal Aggregation for Action Recognition** <br />
-**Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Yi Zhu, Hao Chen, Joseph Tighe.<br />
-[Pre-print](https://arxiv.org/pdf/2012.08041.pdf) <br /><br />
+**Selective Feature Compression for Efficient Activity Recognition Inference** <br />
+Chunhui Liu\*, **Xinyu Li\***, Hao Chen, Joseph Tighe.<br />
+[Pre-print](Comming Soon) <br /><br />
 
 ![image](/images/publication/Tri-ax.jpg){: style="float: left; padding-right: 10px"
                                         width="300px"
@@ -33,10 +40,17 @@ Yanyi Zhang, **Xinyu Li\***, Ivan Marsic.<br />
 ]                                        width="300px"
                                         height=auto } 
 **SiamMOT: Siamese Multi-Object Tracking** <br />
-Bing Shuai, Andrew G. Berneshawi, Davide Modolo, **Xinyu Li**, Joseph Tighe.<br />
+Bing Shuai, Andrew G. Berneshawi, **Xinyu Li**, Davide Modolo, Joseph Tighe.<br />
 **CVPR 2021** [Paper](available_soon) <br /><br />
 
 ## 2020
+
+![image](/images/publication/nuta.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }  
+**NUTA: Non-uniform Temporal Aggregation for Action Recognition** <br />
+**Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Yi Zhu, Hao Chen, Joseph Tighe.<br />
+[Pre-print](https://arxiv.org/pdf/2012.08041.pdf) <br /><br />
 
 ![image](/images/publication/survey.png){: style="float: left; padding-right: 10px"
                                         width="300px"

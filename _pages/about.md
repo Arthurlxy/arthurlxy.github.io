@@ -17,6 +17,7 @@ I received my Bachelor’s Degree (2013) at [UniversiUniversity of Electronic Sc
 
 
 # News
+* [**2021**] Collection of works on transformer with code will be released (VidTr, TubeR, NUTA, etc). 
 * [**2021**] Our work "Multi-Label Activity Recognition using Activity-specific Features and Activity Correlations" is accepted in CVPR 2021. [Paper](https://arxiv.org/abs/2009.07420)
 * [**2021**] Our work "SiamMOT: Siamese Multi-Object Tracking" is accepted in CVPR 2021.
 * [2020] Check out our work on Non-uniform Temporal Aggregation on [Paper](https://arxiv.org/pdf/2012.08041.pdf)
