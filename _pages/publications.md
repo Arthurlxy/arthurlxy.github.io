@@ -20,14 +20,14 @@ For full pulication list, please see my [google scholar](https://scholar.google.
                                         height=auto }
 **TubeR: Tube-Transformer for Action Detection**  <br />
 Jiaojiao Zhao\*, **Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Hao Chen, Joseph Tighe. <br />
-[Pre-print](available_soon)
+[Pre-print](https://arxiv.org/pdf/2104.00969.pdf)
 
 ![image](/images/publication/SFC.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }  
 **Selective Feature Compression for Efficient Activity Recognition Inference** <br />
 Chunhui Liu\*, **Xinyu Li\***, Hao Chen, Joseph Tighe.<br />
-[Pre-print](Comming Soon) <br /><br />
+[Pre-print](https://arxiv.org/pdf/2104.00179.pdf) <br /><br />
 
 ![image](/images/publication/Tri-ax.jpg){: style="float: left; padding-right: 10px"
                                         width="300px"
