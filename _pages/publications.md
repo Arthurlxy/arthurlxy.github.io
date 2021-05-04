@@ -16,7 +16,7 @@ For full pulication list, please see my [google scholar](https://scholar.google.
                                         height=auto }  
 **VidTr: Video Transformer Without Convolutions** <br />
 **Xinyu Li\***, Yanyi Zhang\*, Chunhui Liu, Bing Shuai, Yi Zhu, Hao Chen, Ivan Marsic, Joseph Tighe.<br />
-[Pre-print](Comming Soon) <br /><br /><br />
+[Pre-print](https://arxiv.org/abs/2104.11746) <br /><br /><br />
 
 ![image](/images/publication/TubeR.png){: style="float: left; padding-right: 10px"
                                         width="300px"
