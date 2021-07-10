@@ -17,14 +17,15 @@ I received my Bachelor’s Degree (2013) at [UniversiUniversity of Electronic Sc
 
 
 # News
-* [**2021**] Collection of our works on transformer with code will be released (VidTr, TubeR, NUTA, etc). 
-* [**2021**] Our work "Multi-Label Activity Recognition using Activity-specific Features and Activity Correlations" is accepted in CVPR 2021. [Paper](https://arxiv.org/abs/2009.07420)
-* [**2021**] Our work "SiamMOT: Siamese Multi-Object Tracking" is accepted in CVPR 2021.
-* [2020] Check out our work on Non-uniform Temporal Aggregation: [Paper](https://arxiv.org/pdf/2012.08041.pdf)
-* [2020] The Gluon Toolkit with pytorch support is now available! [GluonCV](https://cv.gluon.ai/).
-* [2020] Our survey paper "A Comprehensive Study of Deep Video Action Recognition" is available: [Paper](https://arxiv.org/abs/2012.06567).
-* [2020] Our paper "Directional temporal modeling for action recognition" is accepted by ECCV 2020 (Spotlight). [Paper](https://assets.amazon.science/67/d7/e6b2da584d57b6928b652fc75fa1/directional-temporal-modeling-for-action-recognition.pdf).
-* [2020] 3rd place in ACM MM HIE challange. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3416297)
-* [2019] Our paper "Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition" has been accepted in ACM Multimedia. [Paper](https://dl.acm.org/doi/abs/10.1145/3343031.3351039)
-* [2019] Our paper "Speech Audio Super-Resolution for Speech Recognition." has been accepted in INTERSPEECH 2019. [Paper](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3043.pdf)
-* [2019] Our paper "Multi-stream network with temporal attention for environmental sound classification" has been accepted in INTERSPEECH 2019. [Paper](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3019.pdf)
+* [**2021**] Check out our work on online action detection: "Long Short-Term Transformer for Online Action Detection". [Paper](https://arxiv.org/abs/2107.03377)
+* [**2021**] Check out our work on video transformer: "VidTr: Video Transformer Without Convolutions". [Paper](https://arxiv.org/abs/2104.11746)
+* [**2021**] **CVPR 2021** publication: "Multi-Label Activity Recognition using Activity-specific Features and Activity Correlations". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Multi-Label_Activity_Recognition_Using_Activity-Specific_Features_and_Activity_Correlations_CVPR_2021_paper.pdf)
+* [**2021**] **CVPR 2021** publication: "SiamMOT: Siamese Multi-Object Tracking". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf)
+* [2020] Check out our work on action recognition: "NUTA: Non-uniform Temporal Aggregation for Action Recognition". [Paper](https://arxiv.org/pdf/2012.08041.pdf)
+* [2020] The **Gluon Toolkit** with pytorch support is now available! [GluonCV](https://cv.gluon.ai/).
+* [2020] Survey paper "A Comprehensive Study of Deep Video Action Recognition" is available: [Paper](https://arxiv.org/abs/2012.06567).
+* [2020] **ECCV 2020 (Spotlight)** Publication: "Directional temporal modeling for action recognition". [Paper](https://assets.amazon.science/67/d7/e6b2da584d57b6928b652fc75fa1/directional-temporal-modeling-for-action-recognition.pdf).
+* [2020] **3rd place** in ACM MM HIE challange. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3416297)
+* [2019] **ACM MM 2019** puvlication: "Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition". [Paper](https://dl.acm.org/doi/abs/10.1145/3343031.3351039)
+* [2019] **InterSpeech 2019** publication: "Speech Audio Super-Resolution for Speech Recognition". [Paper](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3043.pdf)
+* [2019] **InterSpeech 2019** publication: "Multi-stream network with temporal attention for environmental sound classification". [Paper](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3019.pdf)
