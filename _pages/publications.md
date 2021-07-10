@@ -10,6 +10,12 @@ For full pulication list, please see my [google scholar](https://scholar.google.
 
 
 ## 2021
+![image](/images/publication/LSTR.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }  
+**Long Short-Term Transformer for Online Action Detection** <br />
+Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Xia, Zhuowen Tu, Stefano Soatto.<br />
+[Pre-print](https://arxiv.org/abs/2107.03377) <br /><br /><br />
 
 ![image](/images/publication/VidTr.png){: style="float: left; padding-right: 10px"
                                         width="300px"
