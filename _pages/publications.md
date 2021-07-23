@@ -22,7 +22,14 @@ Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Xia, Zhuowen Tu, Stefano S
                                         height=auto }  
 **VidTr: Video Transformer Without Convolutions** <br />
 **Xinyu Li\***, Yanyi Zhang\*, Chunhui Liu, Bing Shuai, Yi Zhu, Hao Chen, Ivan Marsic, Joseph Tighe.<br />
-[Pre-print](https://arxiv.org/abs/2104.11746) <br /><br /><br />
+**ICCV 2021** [Paper Link](https://arxiv.org/abs/2104.11746) <br /><br /><br />
+
+![image](/images/publication/SFC.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }  
+**Selective Feature Compression for Efficient Activity Recognition Inference** <br />
+Chunhui Liu\*, **Xinyu Li\***, Hao Chen, Joseph Tighe.<br />
+**ICCV 2021** [Paper Link](https://arxiv.org/pdf/2104.00179.pdf) <br /><br />
 
 ![image](/images/publication/TubeR.png){: style="float: left; padding-right: 10px"
                                         width="300px"
@@ -30,13 +37,6 @@ Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Xia, Zhuowen Tu, Stefano S
 **TubeR: Tube-Transformer for Action Detection**  <br />
 Jiaojiao Zhao\*, **Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Hao Chen, Joseph Tighe. <br />
 [Pre-print](https://arxiv.org/pdf/2104.00969.pdf)
-
-![image](/images/publication/SFC.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }  
-**Selective Feature Compression for Efficient Activity Recognition Inference** <br />
-Chunhui Liu\*, **Xinyu Li\***, Hao Chen, Joseph Tighe.<br />
-[Pre-print](https://arxiv.org/pdf/2104.00179.pdf) <br /><br />
 
 ![image](/images/publication/Tri-ax.jpg){: style="float: left; padding-right: 10px"
                                         width="300px"
@@ -50,7 +50,7 @@ Yanyi Zhang, **Xinyu Li\***, Ivan Marsic.<br />
                                         height=auto } 
 **SiamMOT: Siamese Multi-Object Tracking** <br />
 Bing Shuai, Andrew G. Berneshawi, **Xinyu Li**, Davide Modolo, Joseph Tighe.<br />
-**CVPR 2021** [Paper Link](available_soon) <br /><br />
+**CVPR 2021** [Paper Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf) <br /><br />
 
 ## 2020
 

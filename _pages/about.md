@@ -17,8 +17,9 @@ I received my Bachelor’s Degree (2013) at [UniversiUniversity of Electronic Sc
 
 
 # News
+* [**2021**] **ICCV 2021** publication: "VidTr: Video Transformer Without Convolutions". [Paper](https://arxiv.org/abs/2104.11746)
+* [**2021**] **ICCV 2021** publication: "Selective Feature Compression for Efficient Activity Recognition Inference". [Paper](https://arxiv.org/pdf/2104.00179.pdf)
 * [**2021**] Check out our work on online action detection: "Long Short-Term Transformer for Online Action Detection". [Paper](https://arxiv.org/abs/2107.03377)
-* [**2021**] Check out our work on video transformer: "VidTr: Video Transformer Without Convolutions". [Paper](https://arxiv.org/abs/2104.11746)
 * [**2021**] **CVPR 2021** publication: "Multi-Label Activity Recognition using Activity-specific Features and Activity Correlations". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Multi-Label_Activity_Recognition_Using_Activity-Specific_Features_and_Activity_Correlations_CVPR_2021_paper.pdf)
 * [**2021**] **CVPR 2021** publication: "SiamMOT: Siamese Multi-Object Tracking". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf)
 * [2020] Check out our work on action recognition: "NUTA: Non-uniform Temporal Aggregation for Action Recognition". [Paper](https://arxiv.org/pdf/2012.08041.pdf)
