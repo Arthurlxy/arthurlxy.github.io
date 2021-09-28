@@ -15,7 +15,7 @@ For full pulication list, please see my [google scholar](https://scholar.google.
                                         height=auto }  
 **Long Short-Term Transformer for Online Action Detection** <br />
 Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Xia, Zhuowen Tu, Stefano Soatto.<br />
-[Pre-print](https://arxiv.org/abs/2107.03377) <br /><br /><br />
+[Pre-print](https://arxiv.org/abs/2107.03377) <br /><br />
 
 ![image](/images/publication/VidTr.png){: style="float: left; padding-right: 10px"
                                         width="300px"
@@ -30,6 +30,13 @@ Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Xia, Zhuowen Tu, Stefano S
 **Selective Feature Compression for Efficient Activity Recognition Inference** <br />
 Chunhui Liu\*, **Xinyu Li\***, Hao Chen, Joseph Tighe.<br />
 **ICCV 2021** [Paper Link](https://arxiv.org/pdf/2104.00179.pdf) <br /><br />
+
+![image](/images/publication/vclr.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**Video Contrastive Learning with Global Context**  <br />
+Haofei Kuang, Yi Zhu, Zhi Zhang, **Xinyu Li**, Joseph Tighe, Sören Schwertfeger, Cyrill Stachniss, Mu Li. <br />
+**ICCV 2021 workshop** [Paper Link](https://arxiv.org/abs/2108.02722) <br /><br /><br /><br />
 
 ![image](/images/publication/TubeR.png){: style="float: left; padding-right: 10px"
                                         width="300px"
