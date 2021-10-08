@@ -8,6 +8,20 @@ For full pulication list, please see my [google scholar](https://scholar.google.
 <br />
 \* denotes equal contribution
 
+## 2022
+![image](/images/publication/nuta.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }  
+**NUTA: Non-uniform Temporal Aggregation for Action Recognition** <br />
+**Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Yi Zhu, Hao Chen, Joseph Tighe.<br />
+**WACV** [Pre-print](https://arxiv.org/pdf/2012.08041.pdf) <br />
+
+![image](/images/publication/sscap.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }  
+**SSCAP: Self-supervised Co-occurrence Action Parsing for Unsupervised Temporal Action Segmentation** <br />
+Zhe Wang, Hao Chen, **Xinyu Li**, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes.<br />
+**WACV 2022** [Pre-print](https://arxiv.org/pdf/2105.14158.pdf) <br /><br />
 
 ## 2021
 ![image](/images/publication/LSTR.png){: style="float: left; padding-right: 10px"
@@ -15,7 +29,7 @@ For full pulication list, please see my [google scholar](https://scholar.google.
                                         height=auto }  
 **Long Short-Term Transformer for Online Action Detection** <br />
 Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Xia, Zhuowen Tu, Stefano Soatto.<br />
-[Pre-print](https://arxiv.org/abs/2107.03377) <br /><br />
+**NeurIPS 2021 Spotlight** [Paper Link](https://arxiv.org/abs/2107.03377) <br /><br />
 
 ![image](/images/publication/VidTr.png){: style="float: left; padding-right: 10px"
                                         width="300px"
@@ -60,14 +74,6 @@ Bing Shuai, Andrew G. Berneshawi, **Xinyu Li**, Davide Modolo, Joseph Tighe.<br 
 **CVPR 2021** [Paper Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf) <br /><br />
 
 ## 2020
-
-![image](/images/publication/nuta.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }  
-**NUTA: Non-uniform Temporal Aggregation for Action Recognition** <br />
-**Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Yi Zhu, Hao Chen, Joseph Tighe.<br />
-[Pre-print](https://arxiv.org/pdf/2012.08041.pdf) <br /><br />
-
 ![image](/images/publication/survey.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto } 

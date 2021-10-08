@@ -17,6 +17,7 @@ I received my Bachelor’s Degree (2013) at [UniversiUniversity of Electronic Sc
 
 
 # News
+* [**2021**] **WACV 2022** Two papers accepted by WACV 2022: [NUTA](https://arxiv.org/pdf/2012.08041.pdf) and [SSCAP](https://arxiv.org/pdf/2105.14158.pdf).
 * [**2021**] **NeurIPS 2021 (Spotlight)** "Long Short-Term Transformer for Online Action Detection". [Paper](https://arxiv.org/abs/2107.03377)
 * [**2021**] GluonMM is now available [Link](https://github.com/amazon-research/gluonmm)
 * [**2021**] **ICCV 2021** publication: "VidTr: Video Transformer Without Convolutions". [Paper](https://arxiv.org/abs/2104.11746)
