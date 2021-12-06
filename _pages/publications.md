@@ -14,14 +14,14 @@ For full pulication list, please see my [google scholar](https://scholar.google.
                                         height=auto }  
 **NUTA: Non-uniform Temporal Aggregation for Action Recognition** <br />
 **Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Yi Zhu, Hao Chen, Joseph Tighe.<br />
-**WACV** [Pre-print](https://arxiv.org/pdf/2012.08041.pdf) <br />
+**WACV22'** [Pre-print](https://arxiv.org/pdf/2012.08041.pdf) <br />
 
 ![image](/images/publication/sscap.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }  
 **SSCAP: Self-supervised Co-occurrence Action Parsing for Unsupervised Temporal Action Segmentation** <br />
-Zhe Wang, Hao Chen, **Xinyu Li**, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes.<br />
-**WACV 2022** [Pre-print](https://arxiv.org/pdf/2105.14158.pdf) <br /><br />
+Zhe Wang, Hao Chen, **Xinyu Li**, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes. 
+**WACV22'** [Pre-print](https://arxiv.org/pdf/2105.14158.pdf) <br /><br />
 
 ## 2021
 ![image](/images/publication/LSTR.png){: style="float: left; padding-right: 10px"
