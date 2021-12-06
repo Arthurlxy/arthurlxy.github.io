@@ -9,15 +9,17 @@ redirect_from:
 ---
 
 # About Me
-I am an applied scientist at [Amazon AI (Rekognition)](https://aws.amazon.com/rekognition/).
-My research interests are video understanding (including action recognition, action detection, action segmentation, etc.) and multimedia understanding (including sound classification, the multimodality fusion, emotion recognition, etc.). I am also actively contributing to open-source tools [GluonCV](https://cv.gluon.ai/).
+I am a Research Scientist at ByteDance AML/AI Lab.
+My research interests are video understanding and multimedia understanding. 
 
-Before joining Amazon, I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. [Ivan Marsic](https://www.ece.rutgers.edu/~marsic/).
+Before joining ByteDance, I was a Senior Applied Scientist at Amazon AI, leading video related research and products. 
+I am also one of the major contributor to open-source tools [GluonCV](https://cv.gluon.ai/) and tools [GluonCV](https://github.com/amazon-research/gluonmm).
+I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic.
 I received my Bachelor’s Degree (2013) at [UniversiUniversity of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 
 # News
-* [**2021**] **WACV 2022** Two papers accepted by WACV 2022: [NUTA](https://arxiv.org/pdf/2012.08041.pdf) and [SSCAP](https://arxiv.org/pdf/2105.14158.pdf).
+* [**2022**] **WACV 2022** Two papers accepted by WACV 2022: [NUTA](https://arxiv.org/pdf/2012.08041.pdf) and [SSCAP](https://arxiv.org/pdf/2105.14158.pdf).
 * [**2021**] **NeurIPS 2021 (Spotlight)** "Long Short-Term Transformer for Online Action Detection". [Paper](https://arxiv.org/abs/2107.03377)
 * [**2021**] GluonMM is now available [Link](https://github.com/amazon-research/gluonmm)
 * [**2021**] **ICCV 2021** publication: "VidTr: Video Transformer Without Convolutions". [Paper](https://arxiv.org/abs/2104.11746)
