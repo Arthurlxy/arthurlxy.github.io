@@ -13,13 +13,14 @@ I am a Research Scientist at ByteDance AML/AI Lab.
 My research interests are video understanding and multimedia understanding. 
 
 Before joining ByteDance, I was a Senior Applied Scientist at Amazon AI, leading video related research and products. 
-I am also one of the major contributor to open-source tools [GluonCV](https://cv.gluon.ai/) and tools [GluonCV](https://github.com/amazon-research/gluonmm).
+I am also one of the major contributor to open-source tools [GluonCV](https://cv.gluon.ai/) and tools [GluonMM](https://github.com/amazon-research/gluonmm).
 
 I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic.
 I received my Bachelor’s Degree (2013) at [UniversiUniversity of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 
 # News
+* [**2022**] **Intern positions** I am hiring research interns with focus on multimodality understanding and video understanding. Please email me if interested (lixinyu.arthur AT bytedance.com).
 * [**2022**] **WACV 2022** Two papers accepted by WACV 2022: [NUTA](https://arxiv.org/pdf/2012.08041.pdf) and [SSCAP](https://arxiv.org/pdf/2105.14158.pdf).
 * [**2021**] **NeurIPS 2021 (Spotlight)** "Long Short-Term Transformer for Online Action Detection". [Paper](https://arxiv.org/abs/2107.03377)
 * [**2021**] GluonMM is now available [Link](https://github.com/amazon-research/gluonmm)
