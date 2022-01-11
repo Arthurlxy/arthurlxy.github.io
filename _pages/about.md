@@ -16,7 +16,7 @@ Before joining ByteDance, I was a Senior Applied Scientist at Amazon AI, leading
 I am also one of the major contributor to open-source tools [GluonCV](https://cv.gluon.ai/) and tools [GluonMM](https://github.com/amazon-research/gluonmm).
 
 I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic.
-I received my Bachelor’s Degree (2013) at [UniversiUniversity of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
+I received my Bachelor’s Degree (2013) at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 
 # News
