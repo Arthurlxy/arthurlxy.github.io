@@ -20,6 +20,10 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 
 
 # News
+* [**2022**] **CVPR 2022** publication: "TubeR: Tubelet Transformer for Video Action Detection". [Paper](https://arxiv.org/abs/2104.00969)
+* [**2022**] **CVPR 2022** publication: "Id-Free Person Similarity Learning". [Paper](to_be_updated)
+* [**2022**] **CVPR 2022** publication: "What to Look at and Where: Semantic and Spatial Refined Transformer for Detecting Human-Object Interactions". [Paper](to_be_updated)
+* [**2022**] **CVPR 2022** publication: "Temporal Gradient Dropout: A Memory Efficient Strategy for Training Video Models". [Paper](to_be_updated)
 * [**2022**] **Intern positions** I am hiring research interns with focus on multimodality understanding and video understanding. Please email me if interested (lixinyu.arthur AT bytedance.com).
 * [**2022**] **WACV 2022** Two papers accepted by WACV 2022: [NUTA](https://arxiv.org/pdf/2012.08041.pdf) and [SSCAP](https://arxiv.org/pdf/2105.14158.pdf).
 * [**2021**] **NeurIPS 2021 (Spotlight)** "Long Short-Term Transformer for Online Action Detection". [Paper](https://arxiv.org/abs/2107.03377)
@@ -28,7 +32,6 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 * [**2021**] **ICCV 2021** publication: "Selective Feature Compression for Efficient Activity Recognition Inference". [Paper](https://arxiv.org/pdf/2104.00179.pdf)
 * [**2021**] **CVPR 2021** publication: "Multi-Label Activity Recognition using Activity-specific Features and Activity Correlations". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Multi-Label_Activity_Recognition_Using_Activity-Specific_Features_and_Activity_Correlations_CVPR_2021_paper.pdf)
 * [**2021**] **CVPR 2021** publication: "SiamMOT: Siamese Multi-Object Tracking". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf)
-* [2020] Check out our work on action recognition: "NUTA: Non-uniform Temporal Aggregation for Action Recognition". [Paper](https://arxiv.org/pdf/2012.08041.pdf)
 * [2020] The **Gluon Toolkit** with pytorch support is now available! [GluonCV](https://cv.gluon.ai/).
 * [2020] Survey paper "A Comprehensive Study of Deep Video Action Recognition" is available: [Paper](https://arxiv.org/abs/2012.06567).
 * [2020] **ECCV 2020 (Spotlight)** Publication: "Directional temporal modeling for action recognition". [Paper](https://assets.amazon.science/67/d7/e6b2da584d57b6928b652fc75fa1/directional-temporal-modeling-for-action-recognition.pdf).
