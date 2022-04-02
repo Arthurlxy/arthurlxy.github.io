@@ -20,11 +20,10 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 
 
 # News
-* [**2022**] **CVPR 2022** publication: "TubeR: Tubelet Transformer for Video Action Detection". [Paper](https://arxiv.org/abs/2104.00969)
+* [**2022**] **CVPR 2022 (Oral)** publication: "TubeR: Tubelet Transformer for Video Action Detection". [Paper](https://arxiv.org/abs/2104.00969)
 * [**2022**] **CVPR 2022** publication: "Id-Free Person Similarity Learning". [Paper](to_be_updated)
-* [**2022**] **CVPR 2022** publication: "What to Look at and Where: Semantic and Spatial Refined Transformer for Detecting Human-Object Interactions". [Paper](to_be_updated)
-* [**2022**] **CVPR 2022** publication: "Temporal Gradient Dropout: A Memory Efficient Strategy for Training Video Models". [Paper](to_be_updated)
-* [**2022**] **Intern positions** I am hiring research interns with focus on multimodality understanding and video understanding. Please email me if interested (lixinyu.arthur AT bytedance.com).
+* [**2022**] **CVPR 2022 (Oral)** publication: "What to Look at and Where: Semantic and Spatial Refined Transformer for Detecting Human-Object Interactions". [Paper](to_be_updated)
+* [**2022**] **CVPR 2022 (Oral)** publication: "Temporal Gradient Dropout: A Memory Efficient Strategy for Training Video Models". [Paper](https://arxiv.org/pdf/2203.16755.pdf)
 * [**2022**] **WACV 2022** Two papers accepted by WACV 2022: [NUTA](https://arxiv.org/pdf/2012.08041.pdf) and [SSCAP](https://arxiv.org/pdf/2105.14158.pdf).
 * [**2021**] **NeurIPS 2021 (Spotlight)** "Long Short-Term Transformer for Online Action Detection". [Paper](https://arxiv.org/abs/2107.03377)
 * [**2021**] GluonMM is now available [Link](https://github.com/amazon-research/gluonmm)
@@ -36,6 +35,3 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 * [2020] Survey paper "A Comprehensive Study of Deep Video Action Recognition" is available: [Paper](https://arxiv.org/abs/2012.06567).
 * [2020] **ECCV 2020 (Spotlight)** Publication: "Directional temporal modeling for action recognition". [Paper](https://assets.amazon.science/67/d7/e6b2da584d57b6928b652fc75fa1/directional-temporal-modeling-for-action-recognition.pdf).
 * [2020] **3rd place** in ACM MM HIE challange. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3416297)
-* [2019] **ACM MM 2019** puvlication: "Mutual correlation attentive factors in dyadic fusion networks for speech emotion recognition". [Paper](https://dl.acm.org/doi/abs/10.1145/3343031.3351039)
-* [2019] **InterSpeech 2019** publication: "Speech Audio Super-Resolution for Speech Recognition". [Paper](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3043.pdf)
-* [2019] **InterSpeech 2019** publication: "Multi-stream network with temporal attention for environmental sound classification". [Paper](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3019.pdf)
