@@ -21,8 +21,8 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 
 # News
 * [**2022**] **CVPR 2022 (Oral)** publication: "TubeR: Tubelet Transformer for Video Action Detection". [Paper](https://arxiv.org/abs/2104.00969)
-* [**2022**] **CVPR 2022** publication: "Id-Free Person Similarity Learning". [Paper](to_be_updated)
-* [**2022**] **CVPR 2022 (Oral)** publication: "What to Look at and Where: Semantic and Spatial Refined Transformer for Detecting Human-Object Interactions". [Paper](to_be_updated)
+* [**2022**] **CVPR 2022** publication: "Id-Free Person Similarity Learning". [Paper](https://www.amazon.science/publications/id-free-person-similarity-learning)
+* [**2022**] **CVPR 2022 (Oral)** publication: "What to Look at and Where: Semantic and Spatial Refined Transformer for Detecting Human-Object Interactions". [Paper](https://arxiv.org/abs/2204.00746)
 * [**2022**] **CVPR 2022 (Oral)** publication: "Temporal Gradient Dropout: A Memory Efficient Strategy for Training Video Models". [Paper](https://arxiv.org/pdf/2203.16755.pdf)
 * [**2022**] **WACV 2022** Two papers accepted by WACV 2022: [NUTA](https://arxiv.org/pdf/2012.08041.pdf) and [SSCAP](https://arxiv.org/pdf/2105.14158.pdf).
 * [**2021**] **NeurIPS 2021 (Spotlight)** "Long Short-Term Transformer for Online Action Detection". [Paper](https://arxiv.org/abs/2107.03377)

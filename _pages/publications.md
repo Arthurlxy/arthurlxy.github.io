@@ -9,19 +9,47 @@ For full pulication list, please see my [google scholar](https://scholar.google.
 \* denotes equal contribution
 
 ## 2022
+![image](/images/publication/TubeR.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**TubeR: Tubelet Transformer for Video Action Detection**  <br />
+Jiaojiao Zhao\*, Yanyi Zhang\*, **Xinyu Li\***,Hao Chen, Bing Shuai, Mingze Xu, Chunhui Liu, Kaustav Kundu, Yuanjun Xiong, Ivan Marsic, Cees G.M. Snoek, Joseph Tighe. <br />
+**cvpr22 Oral** [Paper Link](https://arxiv.org/abs/2104.00969)<br /><br />
+
+![image](/images/publication/ID_free.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }  
+**Id-Free Person Similarity Learning** <br />
+Bing Shuai, **Xinyu Li**, Kaustav Kundu, Joseph Tighe.<br />
+**CVPR22** [Paper Link](https://www.amazon.science/publications/id-free-person-similarity-learning) <br /><br />
+
+![image](/images/publication/SSRT.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto } 
+**What to Look at and Where: Semantic and Spatial Refined Transformer for Detecting Human-Object Interactions** <br />
+A S M Iftekhar, Hao Chen, Kaustav Kundu, **Xinyu Li**, Joseph Tighe, Davide Modolo.<br />
+**CVPR22 Oral** [Paper Link](https://arxiv.org/abs/2204.00746) <br /><br />
+
+![image](/images/publication/Partial_drop.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto } 
+**Stochastic Backpropagation: A Memory Efficient Strategy for Training Video Models** <br />
+Feng Cheng, Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Li, Wei Xia.<br />
+**CVPR22 Oral** [Paper Link](https://arxiv.org/pdf/2203.16755.pdf) <br /><br />
+
 ![image](/images/publication/nuta.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }  
 **NUTA: Non-uniform Temporal Aggregation for Action Recognition** <br />
 **Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Yi Zhu, Hao Chen, Joseph Tighe.<br />
-**WACV22'** [Pre-print](https://arxiv.org/pdf/2012.08041.pdf) <br />
+**WACV22** [Paper Link](https://openaccess.thecvf.com/content/WACV2022/papers/Li_NUTA_Non-Uniform_Temporal_Aggregation_for_Action_Recognition_WACV_2022_paper.pdf) <br />
 
 ![image](/images/publication/sscap.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }  
 **SSCAP: Self-supervised Co-occurrence Action Parsing for Unsupervised Temporal Action Segmentation** <br />
 Zhe Wang, Hao Chen, **Xinyu Li**, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes. 
-**WACV22'** [Pre-print](https://arxiv.org/pdf/2105.14158.pdf) <br /><br />
+**WACV22** [Link](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf) <br /><br />
 
 ## 2021
 ![image](/images/publication/LSTR.png){: style="float: left; padding-right: 10px"
@@ -51,13 +79,6 @@ Chunhui Liu\*, **Xinyu Li\***, Hao Chen, Joseph Tighe.<br />
 **Video Contrastive Learning with Global Context**  <br />
 Haofei Kuang, Yi Zhu, Zhi Zhang, **Xinyu Li**, Joseph Tighe, Sören Schwertfeger, Cyrill Stachniss, Mu Li. <br />
 **ICCV 2021 workshop** [Paper Link](https://arxiv.org/abs/2108.02722) <br /><br /><br /><br />
-
-![image](/images/publication/TubeR.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**TubeR: Tube-Transformer for Action Detection**  <br />
-Jiaojiao Zhao\*, **Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Hao Chen, Joseph Tighe. <br />
-[Pre-print](https://arxiv.org/pdf/2104.00969.pdf)
 
 ![image](/images/publication/Tri-ax.jpg){: style="float: left; padding-right: 10px"
                                         width="300px"
