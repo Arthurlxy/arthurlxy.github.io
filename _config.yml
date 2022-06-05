@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Xinyu Li (Arthur)
+title                    : Xinyu Li (李新煜)
 title_separator          : "-"
 name                     : &name "Xinyu Li"
 description              : &description "Research Scientist @ ByteDance AML/AI Lab"
