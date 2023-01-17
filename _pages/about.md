@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 # About Me
-I am a Research Scientist at ByteDance AML/AI Lab.
+I am a senior applied scientist at Amazon Prime Video.
 My research interests are video understanding and multimedia understanding. 
 
-Before joining ByteDance, I was a Senior Applied Scientist at Amazon AI, leading video related research and products. 
+Before Prime Video, I was a Senior research scientist at ByteDance and Senior Applied Scientist at Amazon AI, leading video related research and products. 
 I am also one of the major contributor to open-source tools [GluonCV](https://cv.gluon.ai/) and tools [GluonMM](https://github.com/amazon-research/gluonmm).
 
 I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic.
@@ -20,6 +20,7 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 
 
 # News
+* [**2023**] **WACV 2023** publication: "Discrete Cosin TransFormer: Image Modeling From Frequency Domain". [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)
 * [**2022**] **CVPR 2022 (Oral)** publication: "TubeR: Tubelet Transformer for Video Action Detection". [Paper](https://arxiv.org/abs/2104.00969)
 * [**2022**] **CVPR 2022** publication: "Id-Free Person Similarity Learning". [Paper](https://www.amazon.science/publications/id-free-person-similarity-learning)
 * [**2022**] **CVPR 2022 (Oral)** publication: "What to Look at and Where: Semantic and Spatial Refined Transformer for Detecting Human-Object Interactions". [Paper](https://arxiv.org/abs/2204.00746)

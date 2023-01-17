@@ -8,6 +8,15 @@ For full pulication list, please see my [google scholar](https://scholar.google.
 <br />
 \* denotes equal contribution
 
+## 2023
+![image](/images/publication/DCFormer.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**Discrete Cosin TransFormer: Image Modeling From Frequency Domain**  <br />
+**Xinyu Li\***, Yanyi Zhang, Jianbo Yuan, Hanlin Lu, Yibo Zhu. <br />
+**WACV23** [Paper Link](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)<br /><br /><br /><br /><br /><br />
+
+
 ## 2022
 ![image](/images/publication/TubeR.png){: style="float: left; padding-right: 10px"
                                         width="300px"
