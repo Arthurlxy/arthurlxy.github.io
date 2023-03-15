@@ -20,6 +20,8 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 
 
 # News
+* [**2023**] **ICASSP 2023** publication: "CAT: Causal Audio Transformer for Audio Classification". [Paper](https://arxiv.org/abs/2303.07626)
+* [**2023**] **ICLR 2023** publication: "Nearest-Neighbor Inter-Intra Contrastive Learning from Unlabeled Videos". [Paper](https://arxiv.org/pdf/2303.07317.pdf)
 * [**2023**] **WACV 2023** publication: "Discrete Cosin TransFormer: Image Modeling From Frequency Domain". [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)
 * [**2022**] **CVPR 2022 (Oral)** publication: "TubeR: Tubelet Transformer for Video Action Detection". [Paper](https://arxiv.org/abs/2104.00969)
 * [**2022**] **CVPR 2022** publication: "Id-Free Person Similarity Learning". [Paper](https://www.amazon.science/publications/id-free-person-similarity-learning)
@@ -32,7 +34,7 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 * [**2021**] **ICCV 2021** publication: "Selective Feature Compression for Efficient Activity Recognition Inference". [Paper](https://arxiv.org/pdf/2104.00179.pdf)
 * [**2021**] **CVPR 2021** publication: "Multi-Label Activity Recognition using Activity-specific Features and Activity Correlations". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Multi-Label_Activity_Recognition_Using_Activity-Specific_Features_and_Activity_Correlations_CVPR_2021_paper.pdf)
 * [**2021**] **CVPR 2021** publication: "SiamMOT: Siamese Multi-Object Tracking". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf)
-* [2020] The **Gluon Toolkit** with pytorch support is now available! [GluonCV](https://cv.gluon.ai/).
+<!-- * [2020] The **Gluon Toolkit** with pytorch support is now available! [GluonCV](https://cv.gluon.ai/).
 * [2020] Survey paper "A Comprehensive Study of Deep Video Action Recognition" is available: [Paper](https://arxiv.org/abs/2012.06567).
 * [2020] **ECCV 2020 (Spotlight)** Publication: "Directional temporal modeling for action recognition". [Paper](https://assets.amazon.science/67/d7/e6b2da584d57b6928b652fc75fa1/directional-temporal-modeling-for-action-recognition.pdf).
-* [2020] **3rd place** in ACM MM HIE challange. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3416297)
+* [2020] **3rd place** in ACM MM HIE challange. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3416297) -->
