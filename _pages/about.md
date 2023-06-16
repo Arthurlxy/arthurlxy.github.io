@@ -35,7 +35,3 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 * [**2021**] **ICCV 2021** publication: "Selective Feature Compression for Efficient Activity Recognition Inference". [Paper](https://arxiv.org/pdf/2104.00179.pdf)
 * [**2021**] **CVPR 2021** publication: "Multi-Label Activity Recognition using Activity-specific Features and Activity Correlations". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Multi-Label_Activity_Recognition_Using_Activity-Specific_Features_and_Activity_Correlations_CVPR_2021_paper.pdf)
 * [**2021**] **CVPR 2021** publication: "SiamMOT: Siamese Multi-Object Tracking". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf)
-<!-- * [2020] The **Gluon Toolkit** with pytorch support is now available! [GluonCV](https://cv.gluon.ai/).
-* [2020] Survey paper "A Comprehensive Study of Deep Video Action Recognition" is available: [Paper](https://arxiv.org/abs/2012.06567).
-* [2020] **ECCV 2020 (Spotlight)** Publication: "Directional temporal modeling for action recognition". [Paper](https://assets.amazon.science/67/d7/e6b2da584d57b6928b652fc75fa1/directional-temporal-modeling-for-action-recognition.pdf).
-* [2020] **3rd place** in ACM MM HIE challange. [Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3416297) -->
