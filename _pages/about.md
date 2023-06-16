@@ -20,6 +20,7 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 
 
 # News
+* [**2023**] **CVPR 2023** publication: "Revisiting multimodal representation in contrastive learning: from patch and token embeddings to finite discrete tokens". [Paper](https://arxiv.org/pdf/2303.14865.pdf)
 * [**2023**] **ICASSP 2023** publication: "CAT: Causal Audio Transformer for Audio Classification". [Paper](https://arxiv.org/abs/2303.07626)
 * [**2023**] **ICLR 2023** publication: "Nearest-Neighbor Inter-Intra Contrastive Learning from Unlabeled Videos". [Paper](https://arxiv.org/pdf/2303.07317.pdf)
 * [**2023**] **WACV 2023** publication: "Discrete Cosin TransFormer: Image Modeling From Frequency Domain". [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)
