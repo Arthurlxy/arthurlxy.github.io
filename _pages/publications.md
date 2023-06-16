@@ -9,6 +9,28 @@ For full pulication list, please see my [google scholar](https://scholar.google.
 \* denotes equal contribution
 
 ## 2023
+![image](/images/publication/FDT.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens**  <br />
+Yuxiao Chen, Jianbo Yuan, Yu Tian, Shijie Geng, **Xinyu Li**, Ding Zhou, Dimitris N. Metaxas, Hongxia Yang. <br />
+**CVPR 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br /><br /><br /><br /><br />
+
+
+![image](/images/publication/CAT.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**CAT: Causal Audio Transformer for Audio Classification**  <br />
+Xiaoyu Liu, Hanlin Lu, Jianbo Yuan, **Xinyu Li**. <br />
+**ICASSP 2023** [Paper Link](https://arxiv.org/pdf/2303.07626.pdf)<br /><br /><br /><br /><br /><br />
+
+![image](/images/publication/IIVCL.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**Nearest-Neighbor Inter-Intra Contrastive Learning from Unlabeled Videos**  <br />
+David Fan, Deyu Yang, **Xinyu Li**, Vimal Bhat, Rohith MV. <br />
+**ICLR2023 Workshop** [Paper Link](https://arxiv.org/pdf/2303.07317.pdf)<br /><br /><br /><br /><br /><br />
+
 ![image](/images/publication/DCFormer.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
