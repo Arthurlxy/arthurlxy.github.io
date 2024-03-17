@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 # About Me
-I am a senior applied scientist at Amazon Prime Video.
-My research interests are video understanding and multimedia understanding. 
+I am a senior applied scientist at Amazon AGI, working on foundation models for video understanding.
 
-Before Prime Video, I was a Senior research scientist at ByteDance and Senior Applied Scientist at Amazon AI, leading video related research and products. 
+Before AGI, I was a Senior research scientist at ByteDance/TikTok and Senior Applied Scientist at Amazon AI, leading video related research and products. 
 I am also one of the major contributor to open-source tools [GluonCV](https://cv.gluon.ai/) and tools [GluonMM](https://github.com/amazon-research/gluonmm).
 
 I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic.

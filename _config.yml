@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : Xinyu Li (李新煜)
 title_separator          : "-"
 name                     : &name "Xinyu Li"
-description              : &description "Research Scientist @ ByteDance AML/AI Lab"
+description              : &description "Senior Research Scientist @ Amazon AGI"
 url                      : https://arthurlxy.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Xinyu Li"
   avatar           : "dexter_arthur.gif"
-  bio              : "Senior Applied Scientist @ Amazon Prime Video"
+  bio              : "Senior Applied Scientist @ Amazon AGI"
   location         : "Seattle, WA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=xMnAUmkAAAAJ&hl=en"
