@@ -9,6 +9,21 @@ For full pulication list, please see my [google scholar](https://scholar.google.
 \* denotes equal contribution
 
 ## 2023
+![image](/images/publication/MGM.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**Motion-Guided Masking for Spatiotemporal Representation Learning**  <br />
+David Fan, Jue Wang, Leo Liao, Yi Zhu, Vimal Bhat, Hector Santos, **Xinyu Li**. <br />
+**CVPR 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br />
+
+![image](/images/publication/MEGA.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**MEGA: Multimodal alignment aggregation and distillation for cinematic video segmentation**  <br />
+Najmeh Sadoughi, Xinyu Li, Avijit Vajpayee, David Fan, Bing Shuai, Hector Santos-Villalobos, Vimal Bhat. <br />
+**CVPR 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br />
+
+
 ![image](/images/publication/FDT.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
