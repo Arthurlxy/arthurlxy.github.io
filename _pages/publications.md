@@ -14,14 +14,14 @@ For full pulication list, please see my [google scholar](https://scholar.google.
                                         height=auto }
 **Motion-Guided Masking for Spatiotemporal Representation Learning**  <br />
 David Fan, Jue Wang, Leo Liao, Yi Zhu, Vimal Bhat, Hector Santos, **Xinyu Li**. <br />
-**CVPR 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br />
+**CVPR 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br /><br />
 
 ![image](/images/publication/MEGA.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
 **MEGA: Multimodal alignment aggregation and distillation for cinematic video segmentation**  <br />
 Najmeh Sadoughi, Xinyu Li, Avijit Vajpayee, David Fan, Bing Shuai, Hector Santos-Villalobos, Vimal Bhat. <br />
-**CVPR 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br />
+**CVPR 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br /><br /><br />
 
 
 ![image](/images/publication/FDT.png){: style="float: left; padding-right: 10px"
@@ -44,7 +44,7 @@ Xiaoyu Liu, Hanlin Lu, Jianbo Yuan, **Xinyu Li**. <br />
                                         height=auto }
 **Nearest-Neighbor Inter-Intra Contrastive Learning from Unlabeled Videos**  <br />
 David Fan, Deyu Yang, **Xinyu Li**, Vimal Bhat, Rohith MV. <br />
-**ICLR2023 Workshop** [Paper Link](https://arxiv.org/pdf/2303.07317.pdf)<br /><br /><br /><br /><br /><br />
+**ICLR2023 Workshop** [Paper Link](https://arxiv.org/pdf/2303.07317.pdf)<br /><br /><br /><br /><br />
 
 ![image](/images/publication/DCFormer.png){: style="float: left; padding-right: 10px"
                                         width="300px"
