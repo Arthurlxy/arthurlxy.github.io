@@ -9,35 +9,44 @@ redirect_from:
 ---
 
 # About Me
-I am a Principal Applied Scientist at Amazon AGI, leading the development of large multimodal models in the Nova family—from encoder design to PT/SFT/PPO, and deployment. Nova models deliver state-of-the-art video understanding and serve customers across media, entertainment, and security domains. I also lead research on next-generation architectures for unified understanding and generation.
 
-Before joining AGI, I was a Staff Research Scientist at ByteDance, focusing on large multimodal modeling, and previously a Senior Applied Scientist at AWS AI, where I led video and multimodal understanding research powering services such as Rekognition Video, ad insertion, and Prime Video content intelligence.
+I am a Principal Applied Scientist at Amazon AGI, leading the development of large-scale multimodal foundation models in the Nova family. 
+My work spans encoder and multimodal embeddings, M-LLM training and evaluation, with a focus on video, cross-modal reasoning, and unified omni-model architectures.
 
-I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic and my Bachelor’s Degree (2013) at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
+Previously, I was a Staff Research Scientist at ByteDance and a Senior Applied Scientist at AWS AI, leading multimodal and video modeling efforts deployed in production.\
+I received my Ph.D. from Rutgers University in 2018 and my B.S. from the University of Electronic Science and Technology of China in 2013.
+
+---
+# Updates
+
+### Model Release
+* **Nova 2 Family**: Multimodal reasoning and generation models. [Technical Report](https://assets.amazon.science/34/df/ac7587cb48cf858a9375f9a6fd75/nova-2-0-technical-report1.pdf)
+* **Nova Multimodal Embedding**: State-of-the-art multimodal embeddings for agentic RAG and semantic search across video, image, document, and audio. [Technical Report](https://assets.amazon.science/de/d4/149300334682a464963f01553ffb/nova-mme-technical-report-10.pdf)
+* **Nova 1 Family**: Amazon's first generation multimodal foundation models. [Nova 1](https://assets.amazon.science/9f/a3/ae41627f4ab2bde091f1ebc6b830/the-amazon-nova-family-of-models-technical-report-and-model-card.pdf) and [Nova 1 Premier](https://assets.amazon.science/e5/e6/ccc5378c42dca467d1abe1628ec9/amazon-nova-premier-technical-report-and-model-card.pdf)
 
 
-# News
-* [**2025**] **ICCV 2025** Publication. [Paper](https://iccv.thecvf.com/virtual/2025/poster/2604)
-* [**2025**] **Nova Models** Nova Premier. [Tech report](https://assets.amazon.science/e5/e6/ccc5378c42dca467d1abe1628ec9/amazon-nova-premier-technical-report-and-model-card.pdf)
-* [**2025**] **WACV 2025** publications: "GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning". [Paper](https://assets.amazon.science/f0/a3/89edae924f98888b693812fa1bcc/gexia-granularity-expansion-and-iterative-approximation-for-scalable-multi-grained-video-language-learning.pdf)
-* [**2025**] **WACV 2025** publications: "Now You See Me: Context-Aware Automatic Audio Description". [Paper](https://assets.amazon.science/a3/c2/ce0b893b42518f664fc0018a34b2/now-you-see-me-context-aware-automatic-audio-description.pdf)
-* [**2024**] **Nova Models** Amazon Nova model family. [Tech report](https://assets.amazon.science/9f/a3/ae41627f4ab2bde091f1ebc6b830/the-amazon-nova-family-of-models-technical-report-and-model-card.pdf)
-* [**2024**] **NeurIPS 2024** publication: "Video token merging for long-form video understanding". [Paper](https://arxiv.org/pdf/2410.23782)
-* [**2024**] **ECCV 2024** publication: "Text-Guided Video Masked Autoencoder". [Paper](https://arxiv.org/abs/2408.0075)
-* [**2023**] **ICCV 2023** publication: "Motion-Guided Masking for Spatiotemporal Representation Learning". [Paper](https://arxiv.org/pdf/2303.14865.pdf)
-* [**2023**] **ICCV 2023** publication: "MEGA: Multimodal Alignment Aggregation and Distillation For Cinematic Video Segmentation". [Paper](https://arxiv.org/pdf/2303.14865.pdf)
-* [**2023**] **CVPR 2023** publication: "Revisiting multimodal representation in contrastive learning: from patch and token embeddings to finite discrete tokens". [Paper](https://arxiv.org/pdf/2303.14865.pdf)
-* [**2023**] **ICASSP 2023** publication: "CAT: Causal Audio Transformer for Audio Classification". [Paper](https://arxiv.org/abs/2303.07626)
-* [**2023**] **ICLR 2023** publication: "Nearest-Neighbor Inter-Intra Contrastive Learning from Unlabeled Videos". [Paper](https://arxiv.org/pdf/2303.07317.pdf)
-* [**2023**] **WACV 2023** publication: "Discrete Cosin TransFormer: Image Modeling From Frequency Domain". [Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)
-* [**2022**] **CVPR 2022 (Oral)** publication: "TubeR: Tubelet Transformer for Video Action Detection". [Paper](https://arxiv.org/abs/2104.00969)
-* [**2022**] **CVPR 2022** publication: "Id-Free Person Similarity Learning". [Paper](https://www.amazon.science/publications/id-free-person-similarity-learning)
-* [**2022**] **CVPR 2022 (Oral)** publication: "What to Look at and Where: Semantic and Spatial Refined Transformer for Detecting Human-Object Interactions". [Paper](https://arxiv.org/abs/2204.00746)
-* [**2022**] **CVPR 2022 (Oral)** publication: "Temporal Gradient Dropout: A Memory Efficient Strategy for Training Video Models". [Paper](https://arxiv.org/pdf/2203.16755.pdf)
-* [**2022**] **WACV 2022** Two papers accepted by WACV 2022: [NUTA](https://arxiv.org/pdf/2012.08041.pdf) and [SSCAP](https://arxiv.org/pdf/2105.14158.pdf).
-* [**2021**] **NeurIPS 2021 (Spotlight)** "Long Short-Term Transformer for Online Action Detection". [Paper](https://arxiv.org/abs/2107.03377)
-* [**2021**] GluonMM is now available [Link](https://github.com/amazon-research/gluonmm)
-* [**2021**] **ICCV 2021** publication: "VidTr: Video Transformer Without Convolutions". [Paper](https://arxiv.org/abs/2104.11746)
-* [**2021**] **ICCV 2021** publication: "Selective Feature Compression for Efficient Activity Recognition Inference". [Paper](https://arxiv.org/pdf/2104.00179.pdf)
-* [**2021**] **CVPR 2021** publication: "Multi-Label Activity Recognition using Activity-specific Features and Activity Correlations". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Multi-Label_Activity_Recognition_Using_Activity-Specific_Features_and_Activity_Correlations_CVPR_2021_paper.pdf)
-* [**2021**] **CVPR 2021** publication: "SiamMOT: Siamese Multi-Object Tracking". [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf)
+### Publications
+
+* **WACV26**:Efficient video compression from reconstruction. [Learning Compact Video Representations for Efficient Long-form Video Understanding in Large Multimodal Models](TBD)
+* **ICCV25**: Easy and accurate semi-supervised learning with text guidance. [SemiVisBooster](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_SemiVisBooster_Boosting_Semi-Supervised_Learning_for_Fine-Grained_Classification_through_Pseudo-Label_Semantic_ICCV_2025_paper.pdf)
+* **WACV25**: Build VLM datasets using captions of multiple semantic granularities. [Scalable Multi-grained Video–Language Learning (GEXIA)](https://assets.amazon.science/f0/a3/89edae924f98888b693812fa1bcc/gexia-granularity-expansion-and-iterative-approximation-for-scalable-multi-grained-video-language-learning.pdf)
+* **WACV25**: Generate audio descriptions with in-video contextual awareness. [Context-Aware Automatic Audio Description](https://assets.amazon.science/a3/c2/ce0b893b42518f664fc0018a34b2/now-you-see-me-context-aware-automatic-audio-description.pdf)
+* **NeurIPS24**: Efficient token reduction for long-form video understanding. [Video Token Merging](https://arxiv.org/pdf/2410.23782)
+* **ECCV24**: Masked video pretraining guided by language supervision. [Text-Guided Video Masked Autoencoder](https://arxiv.org/abs/2408.0075)
+* **ICCV23**: Motion-aware masking for spatiotemporal representation learning. [Motion-Guided Masking](https://arxiv.org/pdf/2303.14865.pdf)
+* **ICCV23**: Align and distill multimodal cues for cinematic video segmentation. [MEGA](https://arxiv.org/pdf/2303.14865.pdf)
+* **CVPR23**: Rethink multimodal contrastive learning from patches to discrete tokens.  [Revisiting Multimodal Representation](https://arxiv.org/pdf/2303.14865.pdf)
+* **ICLR23**: Unsupervised video learning via nearest-neighbor inter–intra contrast. [NN Inter–Intra Contrastive Learning](https://arxiv.org/pdf/2303.07317.pdf)
+* **ICASSP23**: Causal transformer architectures for audio classification.  [CAT](https://arxiv.org/abs/2303.07626)
+* **WACV23**: Image modeling directly in the frequency domain.  [Discrete Cosin Transformer](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)
+* **CVPR22 (Oral)**: Transformer-based tubelet modeling for video action detection.  [TubeR](https://arxiv.org/abs/2104.00969)
+* **CVPR22 (Oral)**: Memory-efficient training for large video models. [Temporal Gradient Dropout](https://arxiv.org/pdf/2203.16755.pdf)
+* **CVPR22 (Oral)**: Joint semantic and spatial reasoning for human–object interaction. [Semantic & Spatial Refined Transformer](https://arxiv.org/abs/2204.00746)
+* **CVPR22**: Annotation-free learning for re-ID. [Id-Free Person Similarity Learning](https://www.amazon.science/publications/id-free-person-similarity-learning)
+<!-- * **WACV22**: Efficient temporal modeling for video understanding.  
+  [NUTA](https://arxiv.org/pdf/2012.08041.pdf), [SSCAP](https://arxiv.org/pdf/2105.14158.pdf) -->
+* **NeurIPS21 (Spotlight)**: Online action detection with long short-term transformers. [LSTR](https://arxiv.org/abs/2107.03377)
+* **ICCV21**: One of the first transformer architecture for video understanding. [VidTr](https://arxiv.org/abs/2104.11746)
+* **ICCV21**: Feature compression for efficient activity recognition inference. [Selective Feature Compression](https://arxiv.org/pdf/2104.00179.pdf)
+* **CVPR21**: Modeling label correlations for multi-label activity recognition. [Multi-Label Activity Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Multi-Label_Activity_Recognition_Using_Activity-Specific_Features_and_Activity_Correlations_CVPR_2021_paper.pdf)
+* **CVPR21**: Siamese transformer framework for multi-object tracking. [SiamMOT](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf)

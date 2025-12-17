@@ -4,259 +4,107 @@ permalink: /publications/
 author_profile: true
 ---
 
-Selected publications for past 5 years, for full pulication list, please see my [google scholar](https://scholar.google.com/citations?user=xMnAUmkAAAAJ&hl=en)
-<br />
-\* denotes equal contribution
+Selected work on **VLM / M-LLM**, **multimodal understanding**, and **efficient learning systems**.  
+For the full list, please see my [Google Scholar](https://scholar.google.com/citations?user=xMnAUmkAAAAJ&hl=en).  
 
-![image](/images/publication/semivisbooster.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**SemiVisBooster: Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance**  <br />
-Wenjin Zhang, **Xinyu Li**, Chenyang Gao, Ivan Marsic. <br />
-**ICCV 2025** [Paper Link](TBA)<br /><br /><br /><br />
+---
 
+## Technical Reports
 
-![image](/images/publication/GEXIA.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning**  <br />
-Yicheng Wang, Zhikang Zhang, Jue Wang, ..., **Xinyu Li**. <br />
-**WACV 2025** [Paper Link](https://arxiv.org/abs/2412.07704)<br /><br />
+- **Nova 2** — Multimodal reasoning and generation foundation models.  
+  [Nova 2 Technical Report](https://assets.amazon.science/34/df/ac7587cb48cf858a9375f9a6fd75/nova-2-0-technical-report1.pdf)
 
-![image](/images/publication/AD.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**Now You See Me: Context-Aware Automatic Audio Description**  <br />
-Seon-Ho Lee, Jue Wang, David Fan, Zhikang Zhang, Linda Liu, Xiang Hao, Vimal Bhat, **Xinyu Li**. <br />
-**WACV 2025** [Paper Link](https://arxiv.org/pdf/2412.10002)<br /><br /><br /><br />
+- **Nova Multimodal Embedding** — Multimodal embeddings for agentic RAG and semantic search across video, image, document, and audio.  
+  [Nova MM-embedding Technical Report](https://assets.amazon.science/de/d4/149300334682a464963f01553ffb/nova-mme-technical-report-10.pdf)
 
-![image](/images/publication/vtm.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-** Video Token Merging for Long Video Understanding**  <br />
-Seon-Ho Lee, Jue Wang, Zhikang Zhang, David Fan, **Xinyu Li**. <br />
-**NeurIPS 2024** [Paper Link](https://arxiv.org/pdf/2410.23782)<br /><br /><br />
+- **Nova 1 / Nova 1 Premier** — Earlier-generation multimodal foundation models.  
+  [Nova 1](https://assets.amazon.science/9f/a3/ae41627f4ab2bde091f1ebc6b830/the-amazon-nova-family-of-models-technical-report-and-model-card.pdf) ·
+  [Nova 1 Premier](https://assets.amazon.science/e5/e6/ccc5378c42dca467d1abe1628ec9/amazon-nova-premier-technical-report-and-model-card.pdf)
 
-![image](/images/publication/TGM.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**Text-Guided Video Masked Autoencoder**  <br />
-David Fan, Jue Wang, Shuai Liao, Zhikang Zhang, Vimal Bhat, **Xinyu Li**. <br />
-**ECCV 2024** [Paper Link](https://arxiv.org/abs/2408.00759)<br /><br /><br /><br /><br /><br />
+---
 
-![image](/images/publication/MGM.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**Motion-Guided Masking for Spatiotemporal Representation Learning**  <br />
-David Fan, Jue Wang, Leo Liao, Yi Zhu, Vimal Bhat, Hector Santos, **Xinyu Li**. <br />
-**ICCV 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br /><br /><br />
+## VLM / M-LLM  
 
-![image](/images/publication/MEGA.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**MEGA: Multimodal alignment aggregation and distillation for cinematic video segmentation**  <br />
-Najmeh Sadoughi, **Xinyu Li** Avijit Vajpayee, David Fan, Bing Shuai, Hector Santos-Villalobos, Vimal Bhat. <br />
-**ICCV 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br /><br /><br />
+- **ICCV 2025** — Semi-supervised learning with pseudo-label semantic guidance for fine-grained classification.  
+  [Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_SemiVisBooster_Boosting_Semi-Supervised_Learning_for_Fine-Grained_Classification_through_Pseudo-Label_Semantic_ICCV_2025_paper.pdf)
 
+- **WACV 2025** — Multi-grained video–text learning via dataset granularity expansion and scalable alignment modeling.  
+  [Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning](https://arxiv.org/abs/2412.07704)
 
-![image](/images/publication/FDT.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens**  <br />
-Yuxiao Chen, Jianbo Yuan, Yu Tian, Shijie Geng, **Xinyu Li**, Ding Zhou, Dimitris N. Metaxas, Hongxia Yang. <br />
-**CVPR 2023** [Paper Link](https://arxiv.org/pdf/2303.14865.pdf)<br /><br />
+- **WACV 2025** — End-to-end vision-to-text audio description: detect AD events + generate scripts with long-context modeling.  
+  [Context-Aware Automatic Audio Description](https://arxiv.org/abs/2412.10002)
 
+- **ECCV 2024** — Video MAE with text-guided masking + joint video-text contrastive learning for better representations.  
+  [Text-Guided Video Masked Autoencoder](https://arxiv.org/abs/2408.00759)
 
-![image](/images/publication/CAT.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**CAT: Causal Audio Transformer for Audio Classification**  <br />
-Xiaoyu Liu, Hanlin Lu, Jianbo Yuan, **Xinyu Li**. <br />
-**ICASSP 2023** [Paper Link](https://arxiv.org/pdf/2303.07626.pdf)<br /><br />
+- **NeurIPS 2024** — Learnable token merging for long-form video transformers (big memory/throughput wins).  
+  [Video Token Merging](https://arxiv.org/abs/2410.23782)
 
-![image](/images/publication/IIVCL.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**Nearest-Neighbor Inter-Intra Contrastive Learning from Unlabeled Videos**  <br />
-David Fan, Deyu Yang, **Xinyu Li**, Vimal Bhat, Rohith MV. <br />
-**ICLR2023 Workshop** [Paper Link](https://arxiv.org/pdf/2303.07317.pdf)<br /><br /><br /><br /><br />
+- **ICCV 2023** — Motion-aware masking for spatiotemporal representation learning.  
+  [Motion-Guided Masking for Spatiotemporal Representation Learning](https://arxiv.org/pdf/2303.14865.pdf)
 
-![image](/images/publication/DCFormer.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**Discrete Cosin TransFormer: Image Modeling From Frequency Domain**  <br />
-**Xinyu Li\***, Yanyi Zhang, Jianbo Yuan, Hanlin Lu, Yibo Zhu. <br />
-**WACV23** [Paper Link](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)<br /><br /><br /><br /><br /><br />
+- **CVPR 2023** — CLIP-style pretraining with finite discrete tokens to close granularity gaps between vision and language.  
+  [Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens](https://arxiv.org/abs/2303.14865)
 
+---
 
-![image](/images/publication/TubeR.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**TubeR: Tubelet Transformer for Video Action Detection**  <br />
-Jiaojiao Zhao\*, Yanyi Zhang\*, **Xinyu Li\***,Hao Chen, Bing Shuai, Mingze Xu, Chunhui Liu, Kaustav Kundu, Yuanjun Xiong, Ivan Marsic, Cees G.M. Snoek, Joseph Tighe. <br />
-**cvpr22 Oral** [Paper Link](https://arxiv.org/abs/2104.00969)<br /><br />
+## Multimodal Understanding  
 
-![image](/images/publication/ID_free.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }  
-**Id-Free Person Similarity Learning** <br />
-Bing Shuai, **Xinyu Li**, Kaustav Kundu, Joseph Tighe.<br />
-**CVPR22** [Paper Link](https://www.amazon.science/publications/id-free-person-similarity-learning) <br /><br />
+- **ICCV 2023** — Multimodal alignment/fusion for long-form cinematic video segmentation across modalities.  
+  [Multimodal alignment aggregation and distillation for cinematic video segmentation](https://arxiv.org/abs/2308.11185)
 
-![image](/images/publication/SSRT.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**What to Look at and Where: Semantic and Spatial Refined Transformer for Detecting Human-Object Interactions** <br />
-A S M Iftekhar, Hao Chen, Kaustav Kundu, **Xinyu Li**, Joseph Tighe, Davide Modolo.<br />
-**CVPR22 Oral** [Paper Link](https://arxiv.org/abs/2204.00746) <br /><br />
+- **ICASSP 2023** — Audio modeling with causal audio transformers + multi-resolution features.  
+  [Causal Audio Transformer for Audio Classification](https://arxiv.org/abs/2303.07626)
 
-![image](/images/publication/Partial_drop.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Stochastic Backpropagation: A Memory Efficient Strategy for Training Video Models** <br />
-Feng Cheng, Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Li, Wei Xia.<br />
-**CVPR22 Oral** [Paper Link](https://arxiv.org/pdf/2203.16755.pdf) <br /><br />
+- **CVPR 2022 (Oral)** — Tubelet transformer for spatiotemporal action detection (end-to-end tube detection).  
+  [Tubelet Transformer for Video Action Detection](https://arxiv.org/abs/2104.00969)
 
-![image](/images/publication/nuta.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }  
-**NUTA: Non-uniform Temporal Aggregation for Action Recognition** <br />
-**Xinyu Li\***, Chunhui Liu\*, Bing Shuai, Yi Zhu, Hao Chen, Joseph Tighe.<br />
-**WACV22** [Paper Link](https://openaccess.thecvf.com/content/WACV2022/papers/Li_NUTA_Non-Uniform_Temporal_Aggregation_for_Action_Recognition_WACV_2022_paper.pdf) <br />
+- **CVPR 2022** — Identity-free person similarity learning.  
+  [Id-Free Person Similarity Learning](https://www.amazon.science/publications/id-free-person-similarity-learning)
 
-![image](/images/publication/sscap.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }  
-**SSCAP: Self-supervised Co-occurrence Action Parsing for Unsupervised Temporal Action Segmentation** <br />
-Zhe Wang, Hao Chen, **Xinyu Li**, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes. 
-**WACV22** [Link](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf) <br /><br />
+- **CVPR 2022 (Oral)** — Semantic+spatial refined transformer for human–object interaction detection.  
+  [SSRT for HOI](https://arxiv.org/abs/2204.00746)
 
-![image](/images/publication/LSTR.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }  
-**Long Short-Term Transformer for Online Action Detection** <br />
-Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Xia, Zhuowen Tu, Stefano Soatto.<br />
-**NeurIPS 2021 Spotlight** [Paper Link](https://arxiv.org/abs/2107.03377) <br /><br />
+- **WACV 2022** — Action recognition by focusing on important temporal segments.  
+  [Non-uniform Temporal Aggregation for Action Recognition](https://openaccess.thecvf.com/content/WACV2022/papers/Li_NUTA_Non-Uniform_Temporal_Aggregation_for_Action_Recognition_WACV_2022_paper.pdf)
 
-![image](/images/publication/VidTr.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }  
-**VidTr: Video Transformer Without Convolutions** <br />
-**Xinyu Li\***, Yanyi Zhang\*, Chunhui Liu, Bing Shuai, Yi Zhu, Hao Chen, Ivan Marsic, Joseph Tighe.<br />
-**ICCV 2021** [Paper Link](https://arxiv.org/abs/2104.11746) <br /><br /><br />
+- **NeurIPS 2021 (Spotlight)** — Online action detection with long/short-term temporal modeling.  
+  [Long Short-Term Transformer for Online Action Detection](https://arxiv.org/abs/2107.03377)
 
-![image](/images/publication/SFC.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }  
-**Selective Feature Compression for Efficient Activity Recognition Inference** <br />
-Chunhui Liu\*, **Xinyu Li\***, Hao Chen, Joseph Tighe.<br />
-**ICCV 2021** [Paper Link](https://arxiv.org/pdf/2104.00179.pdf) <br /><br />
+- **ICCV 2021** — Video transformer without convolutions (video understanding architecture).  
+  [Video Transformer Without Convolutions](https://arxiv.org/abs/2104.11746)
 
-![image](/images/publication/vclr.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }
-**Video Contrastive Learning with Global Context**  <br />
-Haofei Kuang, Yi Zhu, Zhi Zhang, **Xinyu Li**, Joseph Tighe, Sören Schwertfeger, Cyrill Stachniss, Mu Li. <br />
-**ICCV 2021 workshop** [Paper Link](https://arxiv.org/abs/2108.02722) <br /><br /><br /><br />
+- **CVPR 2021** — Siamese multi-object tracking.  
+  [SiamMOT](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf)
 
-![image](/images/publication/Tri-ax.jpg){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto }  
-**Multi-Label Activity Recognition using Activity-specific Features and Activity Correlations** <br />
-Yanyi Zhang, **Xinyu Li\***, Ivan Marsic.<br />
-**CVPR 2021** [Paper Link](https://arxiv.org/abs/2009.07420) <br /><br /><br /><br />
+- **ICCV 2021** — Video–language contrastive learning using global context.  
+  [Video Contrastive Learning with Global Context](https://arxiv.org/abs/2108.02722)
 
-![image](/images/publication/SiamMOT.png){: style="float: left; padding-right: 10px"
-]                                        width="300px"
-                                        height=auto } 
-**SiamMOT: Siamese Multi-Object Tracking** <br />
-Bing Shuai, Andrew G. Berneshawi, **Xinyu Li**, Davide Modolo, Joseph Tighe.<br />
-**CVPR 2021** [Paper Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf) <br /><br />
+- **WACV 2022** — Unsupervised temporal action segmentation via self-supervised co-occurrence parsing.  
+  [Self-supervised Co-occurrence Action Parsing for Unsupervised Temporal Action Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf)
 
-![image](/images/publication/survey.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**A Comprehensive Study of Deep Video Action Recognition** <br />
-Zhu, Yi, **Xinyu Li**, Chunhui Liu, Mohammadreza Zolfaghari, Yuanjun Xiong, Chongruo Wu, ZhiZhang, Joseph Tighe, R. Manmatha, and Mu Li. [Pre-print](https://arxiv.org/abs/2012.06567) <br /><br />
+- **ECCV 2020** — Make convolution temporal aware.
+  [Directional Temporal Modeling](https://arxiv.org/abs/2007.11040)
 
-![image](/images/publication/cidc.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Directional temporal modeling for action recognition** <br />
-**Xinyu Li**, Bing Shuai, and Joseph Tighe.<br />
-**ECCV 2020** [Paper Link](https://arxiv.org/abs/2007.11040) <br /><br />
+---
 
-![image](/images/publication/HIE.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Application of Multi-Object Tracking with Siamese Track-RCNNto the Human in Events Dataset** <br />
-Bing Shuai, Andrew G. Berneshawi, Manchen Wang, Chunhui Liu, Davide Modolo, **Xinyu Li**, Joseph Tighe.<br />
-**ACM MM 2020** [Paper Link](https://arxiv.org/abs/2007.11040) <br /><br />
-<!-- 
-## 2019
-![image](/images/publication/ASR.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Speech Audio Super-Resolution for Speech Recognition** <br />
-**Xinyu Li**, Venkata Chebiyyam, Katrin Kirchhoff.<br />
-**INTERSPEECH 2019** [Paper Link](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3043.pdf) <br /><br />
+## Learning Methods, Efficiency & Others
 
-![image](/images/publication/ESC.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Multi-stream Network With Temporal Attention For Environmental Sound Classification** <br />
-**Xinyu Li**, Venkata Chebiyyam, Katrin Kirchhoff.<br />
-**INTERSPEECH 2019** [Paper Link](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3019.pdf) <br /><br /><br /><br />
+- **WACV 2023** — Frequency-domain image modeling.  
+  [Discrete Cosin Transformer](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)
 
-![image](/images/publication/emo_acm.jpg){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Mutual Correlation Attentive Factors In Dyadic Fusion Networks For Speech Emotion Recognition** <br />
- Gu, Yue, Xinyu Lyu, Weijia Sun, Weitian Li, Shuhong Chen, **Xinyu Li**, and Ivan Marsic.<br />
-**ACM MM 2019** [Paper Link](https://dl.acm.org/doi/abs/10.1145/3343031.3351039) <br /><br />
+- **CVPR 2022 (Oral)** — Memory-efficient training for video models (stochastic backprop / gradient dropout).  
+  [Stochastic Backpropagation / Temporal Gradient Dropout](https://arxiv.org/pdf/2203.16755.pdf)
 
-## 2018
-![image](/images/publication/acm_2018.jpg){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Human conversation analysis using attentive multimodal networks with hierarchical encoder-decoder** <br />
-Yue Gu, **Xinyu Li**, Kaixiang Huang, Shiyu Fu, Kangning Yang, Shuhong Chen, Moliang Zhou, and Ivan Marsic.<br />
-**ACM MM 2018** [Paper Link](https://dl.acm.org/doi/10.1145/3240508.3240714) <br /><br />
+- **ICCV 2021** — Efficient inference via selective feature compression.  
+  [Selective Feature Compression for Efficient Activity Recognition Inference](https://arxiv.org/pdf/2104.00179.pdf)
 
-![image](/images/publication/coling.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Hybrid Attention based Multimodal Network for Spoken Language Classification** <br />
-Yue Gu, Kangning Yang, Shiyu Fu, Shuhong Chen, **Xinyu Li**, and Ivan Marsic.<br />
-**COLING 2018** [Paper Link](https://www.aclweb.org/anthology/C18-1201.pdf) <br /><br />
+- **CVPR 2021** — Multi-label activity recognition with label correlations.  
+  [Multi-Label Activity Recognition](https://arxiv.org/abs/2009.07420)
 
+- **Pre-print** — A survey of recent action recognition methods for Gluon CV release. \
+  [A Comprehensive Study of Deep Video Action Recognition](https://arxiv.org/abs/2012.06567) \
+  [GluonCV](https://pypi.org/project/gluoncv-torch/)
 
-## 2017
-![image](/images/publication/acm_2017.jpg){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Region-based Activity Recognition Using Conditional GAN** <br />
-**Xinyu Li**, Yanyi Zhang, Jianyu Zhang, Yueyang Chen, Huangcan Li, Ivan Marsic, and Randall S. Burd.<br />
-**ACM MM 2017** [Paper Link](https://dl.acm.org/doi/10.1145/3123266.3123365) <br /><br /><br /><br />
-
-![image](/images/publication/ubicomp.png){: style="float: left; padding-right: 10px"
-                                        width="300px"
-                                        height=auto } 
-**Progress Estimation And Phase Detection For Sequential Processes** <br />
-**Xinyu Li**, Yanyi Zhang, Jianyu Zhang, Moliang Zhou, Shuhong Chen, Yue Gu, Yueyang Chen, Ivan Marsic.<br />
-**UBICOMP 2017** [Paper Link](https://www.researchgate.net/publication/314115760_Process_Progress_Estimation_and_Phase_Detection) <br /><br />
-
-## 2016 and Before
-
-**Deep Learning for RFID-based Activity Recognition** <br />
-**Xinyu Li**, Yanyi Zhang, Ivan Marsic, Aleksandra Sarcevic, and Randall S. Burd.<br />
-**SenSys 2016** 
-
-**Activity Recognition For Medical Teamwork Based on Passive RFID** <br />
-**Xinyu Li**, Dongyang Yao, Xuechao Pan, Jonathan Johannaman, JaeWon Yang, Rachel Webman, Aleksandra Sarcevic, Ivan Marsic, and Randall S. Burd.<br />
-**IEEE RFID 2016** 
-
-**A Novel Single Image Dehazing Method** <br />
-Yanjing Yang, Zhizhong Fu, **Xinyu Li**, Chang Shu, and Xiaofeng Li.<br />
-**ICCP 2013** 
-                                                                                     -->
+- **Open Source (2021)** — Multimodal research toolkit.  
+  [GluonMM](https://github.com/amazon-research/gluonmm)
