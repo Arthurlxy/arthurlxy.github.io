@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : Xinyu Li (李新煜)
 title_separator          : "-"
 name                     : &name "Xinyu Li"
-description              : &description "Principal Applied Scientist @ Amazon AGI"
+description              : &description "Member of Technical Staff @ Physical Intelligence."
 url                      : https://arthurlxy.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -63,9 +63,12 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Xinyu Li
+  links:
+    - "https://scholar.google.com/citations?user=xMnAUmkAAAAJ&hl=en"
+    - "https://github.com/Arthurlxy"
+    - "https://www.linkedin.com/in/xinyu-li-1368b5107/"
 
 
 # Analytics
@@ -79,7 +82,7 @@ analytics:
 author:
   name             : "Xinyu Li"
   avatar           : "dexter_arthur.gif"
-  bio              : "Principal Applied Scientist @ Amazon AGI"
+  bio              : "Member of Technical Staff @ Physical Intelligence"
   location         : "Seattle, WA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=xMnAUmkAAAAJ&hl=en"

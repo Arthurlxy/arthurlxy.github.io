@@ -4,8 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Selected work on **VLM / M-LLM**, **multimodal understanding**, and **efficient learning systems**.  
-For the full list, please see my [Google Scholar](https://scholar.google.com/citations?user=xMnAUmkAAAAJ&hl=en).  
+Selected work on **VLM/M-LLM**, **multimodal understanding**, and **efficient learning systems**.
+For the complete list (including co-authored and earlier work), see my [Google Scholar](https://scholar.google.com/citations?user=xMnAUmkAAAAJ&hl=en).
 
 ---
 
@@ -23,7 +23,7 @@ For the full list, please see my [Google Scholar](https://scholar.google.com/cit
 
 ---
 
-## VLM / M-LLM  
+## VLM / M-LLM
 
 - **ICCV 2025** — Semi-supervised learning with pseudo-label semantic guidance for fine-grained classification.  
   [Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_SemiVisBooster_Boosting_Semi-Supervised_Learning_for_Fine-Grained_Classification_through_Pseudo-Label_Semantic_ICCV_2025_paper.pdf)
@@ -91,7 +91,7 @@ For the full list, please see my [Google Scholar](https://scholar.google.com/cit
 ## Learning Methods, Efficiency & Others
 
 - **WACV 2023** — Frequency-domain image modeling.  
-  [Discrete Cosin Transformer](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)
+  [Discrete Cosine Transformer](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)
 
 - **CVPR 2022 (Oral)** — Memory-efficient training for video models (stochastic backprop / gradient dropout).  
   [Stochastic Backpropagation / Temporal Gradient Dropout](https://arxiv.org/pdf/2203.16755.pdf)
