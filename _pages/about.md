@@ -10,10 +10,11 @@ redirect_from:
 
 # About
 
-I am a Member of Technical Staff (MTS) at [Physical Intelligence](https://www.physicalintelligence.company/), working on VLA and omni-models.
+I am a Member of Technical Staff at [Physical Intelligence](https://www.physicalintelligence.company/), working on VLA and omni-models.
 
 Previously, I was a Principal Applied Scientist at Amazon AGI, where I led multimodal understanding for the Nova model family. Before that, I was a Staff Research Scientist at ByteDance and a Senior Applied Scientist at AWS AI, leading multimodal and video modeling efforts deployed in production. 
 
+I received my Ph.D. from Rutgers University in 2018 and my bachelor’s degree from the University of Electronic Science and Technology of China in 2013.
 
 ---
 # Updates
