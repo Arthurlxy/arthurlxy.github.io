@@ -23,27 +23,26 @@ redirect_from:
   margin-bottom: 0.5em;
 }
 .hl-card {
-  position: relative;
   border-radius: 10px;
   overflow: hidden;
-  background: #000;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.16);
-  aspect-ratio: 16 / 10;
+  background: #fff;
+  border: 1px solid #eaedf1;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  display: flex; flex-direction: column;
 }
-.hl-card video { width: 100%; height: 100%; object-fit: cover; display: block; }
-.hl-cap {
-  position: absolute; left: 0; right: 0; bottom: 0;
-  padding: 0.9em 1em 0.8em; color: #fff;
-  background: linear-gradient(to top, rgba(0,0,0,0.82), rgba(0,0,0,0));
-}
-.hl-cap .t { font-size: 1.05em; font-weight: 700; margin: 0 0 0.1em; }
-.hl-cap .s { font-size: 0.85em; opacity: 0.9; margin: 0; }
-.hl-cap a { color: #ffd166; font-weight: 600; text-decoration: none; }
+.hl-media { position: relative; aspect-ratio: 16 / 10; background: #000; }
+.hl-media video { width: 100%; height: 100%; object-fit: cover; display: block; }
 .hl-tag {
   position: absolute; top: 10px; left: 10px; z-index: 2;
   padding: 2px 9px; border-radius: 5px; font-size: 0.72em; font-weight: 700;
   letter-spacing: 0.03em; color: #fff; background: rgba(31,64,104,0.92);
 }
+.hl-cap { padding: 0.65em 0.85em 0.75em; }
+.hl-cap .t { font-size: 1.0em; font-weight: 700; margin: 0 0 0.12em; line-height: 1.3; }
+.hl-cap .t a { color: #18202b; text-decoration: none; }
+.hl-cap .t a:hover { color: #1f4068; }
+.hl-cap .t .ext { color: #1f4068; font-size: 0.82em; margin-left: 3px; vertical-align: 1px; }
+.hl-cap .s { font-size: 0.85em; color: #6a7480; margin: 0; }
 
 /* News */
 .news-list { list-style: none; padding-left: 0; margin: 0.3em 0 0.5em; }
@@ -98,24 +97,28 @@ My research centers on **multimodal understanding across domains**, with a deep 
 
 <div class="hl-grid">
   <div class="hl-card">
-    <span class="hl-tag">π0.7 · Physical Intelligence</span>
-    <video autoplay loop muted playsinline poster="/images/news/pi07-hero.png">
-      <source src="https://website.pi-asset.com/pi07/shirt_folding_processed_no_overlay_compressed.mp4" type="video/mp4">
-    </video>
+    <div class="hl-media">
+      <span class="hl-tag">π0.7 · Physical Intelligence</span>
+      <video autoplay loop muted playsinline poster="/images/news/pi07-hero.png">
+        <source src="https://website.pi-asset.com/pi07/shirt_folding_processed_no_overlay_compressed.mp4" type="video/mp4">
+      </video>
+    </div>
     <div class="hl-cap">
-      <p class="t">A Steerable Model with Emergent Capabilities</p>
-      <p class="s">Generalist robot foundation model. <a href="https://www.pi.website/blog/pi07">Read the blog →</a></p>
+      <p class="t"><a href="https://www.pi.website/blog/pi07">A Steerable Model with Emergent Capabilities<span class="ext">↗</span></a></p>
+      <p class="s">Generalist robot foundation model.</p>
     </div>
   </div>
 
   <div class="hl-card">
-    <span class="hl-tag">TubeR · CVPR 2022 Oral</span>
-    <video autoplay loop muted playsinline controls preload="auto" poster="/images/publication/fig-tuber.png">
-      <source src="/images/videos/TubeR_Demo_web.mp4" type="video/mp4">
-    </video>
+    <div class="hl-media">
+      <span class="hl-tag">TubeR · CVPR 2022 Oral</span>
+      <video autoplay loop muted playsinline controls preload="auto" poster="/images/publication/fig-tuber.png">
+        <source src="/images/videos/TubeR_Demo_web.mp4" type="video/mp4">
+      </video>
+    </div>
     <div class="hl-cap">
-      <p class="t">Tubelet Transformer for Video Action Detection</p>
-      <p class="s">End-to-end spatiotemporal action detection. <a href="https://arxiv.org/abs/2104.00969">Paper →</a></p>
+      <p class="t"><a href="https://arxiv.org/abs/2104.00969">Tubelet Transformer for Video Action Detection<span class="ext">↗</span></a></p>
+      <p class="s">End-to-end spatiotemporal action detection.</p>
     </div>
   </div>
 </div>
